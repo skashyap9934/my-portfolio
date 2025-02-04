@@ -62,6 +62,6 @@ Make sure you have the following installed:
 
 - **Saurav Kashyap**
 - **MERN Stack Developer**
-- **Email**(kashyapsaurav531@gmail.com)
-- **GitHub Profile**:(https://github.com/skashyap9934)
-- **Portfolio Website**:(https://sauravkashyap-portfolio.netlify.app)
+- **Email**: (kashyapsaurav531@gmail.com)
+- **GitHub Profile**: (https://github.com/skashyap9934)
+- **Portfolio Website**: (https://sauravkashyap-portfolio.netlify.app)
