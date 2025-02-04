@@ -1,0 +1,20 @@
+.TechStack > div {
+  width: 75%;
+  margin: auto;
+  text-align: center;
+}
+
+.TechStack > div > div > div {
+  margin-inline: 2.5rem;
+  background-color: whitesmoke;
+  padding: 11px 27px;
+  border-radius: 11px;
+}
+
+.TechStack p {
+  margin-top: 0.25rem;
+}
+
+.TechStack svg {
+  font-size: 2.5rem;
+}

@@ -1,0 +1,52 @@
+.Home,
+.Home > div {
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Home {
+  width: 95%;
+  background-color: whitesmoke;
+  padding: 1rem 0;
+}
+
+.Home > div {
+  flex-direction: column;
+  gap: 1rem;
+  align-items: flex-start;
+  max-width: 50%;
+}
+
+.Home img {
+  width: 275px;
+  height: 351px;
+  border-radius: 11px;
+}
+
+.Home p > span {
+  text-decoration: underline olive;
+}
+
+.Home #name {
+  display: block;
+  overflow: hidden;
+  border-right: 4px solid #1677ff;
+  white-space: nowrap;
+  animation: 5s steps(35) 0s infinite typing;
+  color: #1677ff;
+  margin-right: 5px;
+}
+
+@keyframes typing {
+  0% {
+    width: 0;
+  }
+  50% {
+    width: 100%;
+  }
+  100% {
+    width: 0;
+  }
+}

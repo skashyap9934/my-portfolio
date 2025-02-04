@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url("./assets/wp12161648-windows-11-white-wallpapers.jpg");
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  background-size: cover;
+}
+
+body * {
+  font-family: "Poppins", serif;
+  margin: 0;
+  padding: 0;
+}
+
+.section-header {
+  color: #1677ff;
+  text-align: center;
+  margin-block: 11px;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+html {
+  scroll-behavior: smooth;
+}

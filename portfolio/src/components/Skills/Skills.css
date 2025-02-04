@@ -1,0 +1,8 @@
+.Skills {
+  display: flex;
+  margin: auto;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  width: 95%;
+  padding-block: 1rem;
+}

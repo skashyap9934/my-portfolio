@@ -1,0 +1,30 @@
+.Contact {
+  width: 75%;
+  margin: auto;
+  list-style: none;
+}
+
+.Contact a {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  color: black;
+  text-decoration: none;
+  width: max-content;
+}
+
+.Contact a:hover {
+  opacity: 0.7;
+}
+
+.thank {
+  margin-top: 1rem;
+  display: flex;
+  gap: 11px;
+  align-items: center;
+  background-color: white;
+  padding: 5px 11px;
+  border-top-left-radius: 11px;
+  border-top-right-radius: 11px;
+  border-bottom: 4px solid #1677ff;
+}
