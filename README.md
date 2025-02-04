@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my personal portfolio website! This repository contains the source code for my online portfolio where I showcase my skills, projects, and experience.
+Welcome to my personal portfolio website! This repository contains the source code for my online portfolio where I showcase my skills, projects, and experience as a **MERN Stack Developer**.
 
 ## Table of Contents
 
@@ -23,22 +23,20 @@ This is a personal portfolio website built to showcase my web development skills
 - An **About Me** section to introduce myself.
 - A **Skills** section to display my technical abilities.
 - A **Projects** section showcasing some of the key projects I have worked on.
-- A **Contact** form for potential employers and collaborators to reach out.
+- A **Contact** section for potential employers and collaborators to reach out.
 
 The site is designed to be fully responsive and mobile-friendly, providing a smooth user experience across various devices.
 
 ## Features
 
-- Fully responsive layout
+- Created for Desktop devices only. May break when opened on mobile devices.
 - Dynamic project cards
-- Light and dark theme support
-- Contact form with email functionality
+- Contact section with email functionality
+- Contact section with calling on the phone number functionality
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS
-- **Backend**: (If applicable, mention backend technologies here, such as Node.js, Express, etc.)
-- **Database**: (If applicable, mention database technologies here, such as MongoDB, PostgreSQL, etc.)
+- **Frontend**: HTML, CSS, JavaScript, React.js, TypeScript, ChakraUI, Ant Design, React Icons, Font Awesome
 - **Version Control**: Git, GitHub
 
 ## Getting Started
@@ -56,4 +54,4 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/my-portfolio.git
+   git clone https://github.com/skashyap9934/my-portfolio
