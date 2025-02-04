@@ -54,15 +54,14 @@ Make sure you have the following installed:
 
    ```bash
    git clone https://github.com/your-username/my-portfolio.git
-
    ```
 
-2. Install various dependencies using "npm install"
+2. Install various dependencies using "npm install".
 
 ### Contact
 
-- **Saurav Kashyap**: Your name
-- **MERN Stack Developer**: Your role.
-- **Email**: I’ve kept it as a placeholder (`kashyapsaurav531@gmail.com`). 
-- **GitHub Profile**: (https://github.com/skashyap9934).
-- **Portfolio Website**: `https://sauravkashyap-portfolio.netlify.app`
+- **Saurav Kashyap**
+- **MERN Stack Developer**
+- **Email**(kashyapsaurav531@gmail.com)
+- **GitHub Profile**:(https://github.com/skashyap9934)
+- **Portfolio Website**:(https://sauravkashyap-portfolio.netlify.app)
