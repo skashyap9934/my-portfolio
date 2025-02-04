@@ -20,8 +20,10 @@ const Projects: React.FC = () => {
   const settings = {
     velocity: stop ? 0 : 60,
     minScale: 0.7,
-    direction: "rtl",
     resetAfterTries: 200,
+    scatterRandomly: false,
+    onInit: () => console.log("Marquee Slider initialized"),
+    onFinish: () => console.log("Marquee Slider finished"),
   };
 
   return (
@@ -35,7 +37,7 @@ const Projects: React.FC = () => {
     >
       <h1 className="section-header">Projects</h1>
       <div className="Projects">
-        <MarqueeSlider {...settings}>
+        <MarqueeSlider direction="rtl" {...settings}>
           <div
             className="Project"
             onMouseLeave={() => setStop(false)}

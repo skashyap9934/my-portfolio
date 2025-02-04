@@ -15,8 +15,10 @@ const Contact: React.FC = () => {
   const settings = {
     velocity: 60,
     minScale: 0.7,
-    direction: "rtl",
     resetAfterTries: 200,
+    scatterRandomly: false,
+    onInit: () => console.log("Marquee Slider initialized"),
+    onFinish: () => console.log("Marquee Slider finished"),
   };
 
   return (
@@ -58,7 +60,7 @@ const Contact: React.FC = () => {
         </li>
       </ul>
 
-      <MarqueeSlider {...settings}>
+      <MarqueeSlider direction="rtl" {...settings}>
         <p className="thank">
           <PiHandshake size={21} />{" "}
           <span>Feel Free to contact me. Have a good day. Thank you !</span>{" "}

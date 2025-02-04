@@ -30,8 +30,10 @@ const TechStack: React.FC = () => {
   const settings = {
     velocity: 30,
     minScale: 0.7,
-    direction: "rtl",
     resetAfterTries: 200,
+    scatterRandomly: false,
+    onInit: () => console.log("Marquee Slider initialized"),
+    onFinish: () => console.log("Marquee Slider finished"),
   };
 
   return (
@@ -40,7 +42,7 @@ const TechStack: React.FC = () => {
         Tech Stack & TOOLS
       </h1>
       <div className="TechStack" style={{ marginBottom: "2rem" }}>
-        <MarqueeSlider {...settings}>
+        <MarqueeSlider direction="rtl" {...settings}>
           <div>
             <SiHtml5 />
             <p>HTML</p>

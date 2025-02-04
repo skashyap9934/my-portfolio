@@ -6,7 +6,6 @@ import Slider from "react-slick";
 import { VscCode } from "react-icons/vsc";
 import { SiPostman, SiDbeaver } from "react-icons/si";
 import { GithubFilled, DockerOutlined } from "@ant-design/icons";
-import { Divider } from "antd";
 
 // Stylesheets
 import "./Tools.css";
