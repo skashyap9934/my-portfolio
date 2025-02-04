@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my personal portfolio website! This repository contains the source code for my online portfolio where I showcase my skills, projects, and experience as a **MERN Stack Developer**.
+Welcome to my personal portfolio website! This repository contains the source code for my online portfolio where I showcase my skills, projects, and experience.
 
 ## Table of Contents
 
@@ -10,10 +10,6 @@ Welcome to my personal portfolio website! This repository contains the source co
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Description
@@ -23,20 +19,22 @@ This is a personal portfolio website built to showcase my web development skills
 - An **About Me** section to introduce myself.
 - A **Skills** section to display my technical abilities.
 - A **Projects** section showcasing some of the key projects I have worked on.
-- A **Contact** section for potential employers and collaborators to reach out.
+- A **Contact** form for potential employers and collaborators to reach out.
 
 The site is designed to be fully responsive and mobile-friendly, providing a smooth user experience across various devices.
 
 ## Features
 
-- Created for Desktop devices only. May break when opened on mobile devices.
+- Fully responsive layout
 - Dynamic project cards
-- Contact section with email functionality
-- Contact section with calling on the phone number functionality
+- Light and dark theme support
+- Contact form with email functionality
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript, React.js, TypeScript, ChakraUI, Ant Design, React Icons, Font Awesome
+- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS
+- **Backend**: (If applicable, mention backend technologies here, such as Node.js, Express, etc.)
+- **Database**: (If applicable, mention database technologies here, such as MongoDB, PostgreSQL, etc.)
 - **Version Control**: Git, GitHub
 
 ## Getting Started
@@ -53,5 +51,18 @@ Make sure you have the following installed:
 ### Installation
 
 1. Clone the repository:
+
    ```bash
-   git clone https://github.com/skashyap9934/my-portfolio
+   git clone https://github.com/your-username/my-portfolio.git
+
+   ```
+
+2. Install various dependencies using "npm install"
+
+### Contact
+
+- **Saurav Kashyap**: Your name
+- **MERN Stack Developer**: Your role.
+- **Email**: I’ve kept it as a placeholder (`kashyapsaurav531@gmail.com`). 
+- **GitHub Profile**: (https://github.com/skashyap9934).
+- **Portfolio Website**: `https://sauravkashyap-portfolio.netlify.app`
